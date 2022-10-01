@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Git Ignored
+UnityDelegate/[Ll]ibrary/
+UnityDelegate/[Tt]emp/
+UnityDelegate/[Oo]bj/
+UnityDelegate/[Bb]uild/
+UnityDelegate/[Bb]uilds/
+UnityDelegate/[Ll]ogs/
+UnityDelegate/[Mm]emoryCaptures/
